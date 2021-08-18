@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ShareNotes/static/css/main.e5551b6a.chunk.css",
+    "main.js": "/ShareNotes/static/js/main.4a793a53.chunk.js",
+    "main.js.map": "/ShareNotes/static/js/main.4a793a53.chunk.js.map",
+    "runtime-main.js": "/ShareNotes/static/js/runtime-main.44bbd10b.js",
+    "runtime-main.js.map": "/ShareNotes/static/js/runtime-main.44bbd10b.js.map",
+    "static/js/2.ae5cf27f.chunk.js": "/ShareNotes/static/js/2.ae5cf27f.chunk.js",
+    "static/js/2.ae5cf27f.chunk.js.map": "/ShareNotes/static/js/2.ae5cf27f.chunk.js.map",
+    "index.html": "/ShareNotes/index.html",
+    "static/css/main.e5551b6a.chunk.css.map": "/ShareNotes/static/css/main.e5551b6a.chunk.css.map",
+    "static/js/2.ae5cf27f.chunk.js.LICENSE.txt": "/ShareNotes/static/js/2.ae5cf27f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44bbd10b.js",
+    "static/js/2.ae5cf27f.chunk.js",
+    "static/css/main.e5551b6a.chunk.css",
+    "static/js/main.4a793a53.chunk.js"
+  ]
+}
