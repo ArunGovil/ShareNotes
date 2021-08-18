@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/ShareNotes/static/css/main.e68ccda3.chunk.css",
-    "main.js": "/ShareNotes/static/js/main.1f64a917.chunk.js",
-    "main.js.map": "/ShareNotes/static/js/main.1f64a917.chunk.js.map",
+    "main.js": "/ShareNotes/static/js/main.2afef598.chunk.js",
+    "main.js.map": "/ShareNotes/static/js/main.2afef598.chunk.js.map",
     "runtime-main.js": "/ShareNotes/static/js/runtime-main.44bbd10b.js",
     "runtime-main.js.map": "/ShareNotes/static/js/runtime-main.44bbd10b.js.map",
     "static/js/2.ae5cf27f.chunk.js": "/ShareNotes/static/js/2.ae5cf27f.chunk.js",
     "static/js/2.ae5cf27f.chunk.js.map": "/ShareNotes/static/js/2.ae5cf27f.chunk.js.map",
     "index.html": "/ShareNotes/index.html",
     "static/css/main.e68ccda3.chunk.css.map": "/ShareNotes/static/css/main.e68ccda3.chunk.css.map",
-    "static/js/2.ae5cf27f.chunk.js.LICENSE.txt": "/ShareNotes/static/js/2.ae5cf27f.chunk.js.LICENSE.txt"
+    "static/js/2.ae5cf27f.chunk.js.LICENSE.txt": "/ShareNotes/static/js/2.ae5cf27f.chunk.js.LICENSE.txt",
+    "static/media/screen.51b38f2d.jpg": "/ShareNotes/static/media/screen.51b38f2d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.44bbd10b.js",
     "static/js/2.ae5cf27f.chunk.js",
     "static/css/main.e68ccda3.chunk.css",
-    "static/js/main.1f64a917.chunk.js"
+    "static/js/main.2afef598.chunk.js"
   ]
 }
